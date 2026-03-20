@@ -2,6 +2,11 @@
 
 A comprehensive Flutter application to help you keep track of your plants and their watering schedules.
 
+## Deployment
+
+The application is deployed live and can be accessed here:
+**[https://map-34c89.web.app/](https://map-34c89.web.app/)**
+
 ## Features
 
 - **Plant Gallery**: View all your plants in a beautifully designed grid interface.
